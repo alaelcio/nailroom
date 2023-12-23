@@ -12,7 +12,7 @@ Projeto básico com React-Native.
 
 ## como baixar o projeto
 ```
-gif clone
+gif clone https://github.com/alaelcio/nailroom.git
 cd 
 yarn
 npm i
